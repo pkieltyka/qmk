@@ -14,3 +14,5 @@ README, from pkieltyka fork
 ## Tips
 
 * Hold ESC key for getting into DFU, hold it while plugging in the keyboard, etc.
+
+* for the Tofu 60 Redux (crap), use `make dztech/dz60v2:pkredux`
